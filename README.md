@@ -1,5 +1,6 @@
 # Chanchal_BED_LAB5
-This contains solution for Lab 5 Problem Statement.
+*This contains solution for Lab 5 Problem Statement.
+*This is built using spring-initializer and eclipse(IDE).
 The problem was --> 
 *Create an MVC project using Spring Boot & Thymeleaf (Employee
 Management System) and perform the following operations using appropriate mappings
