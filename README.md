@@ -7,4 +7,3 @@ Management System) and perform the following operations using appropriate mappin
 2. Insert new records into the table.
 3. Update an existing record in the table.
 4. Delete existing records from the table.
-*I have used Mysql database for storing values. have created this by spring initializer.
